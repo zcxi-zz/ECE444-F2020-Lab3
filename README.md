@@ -14,7 +14,7 @@ Activity 2 \
 ![21](./resources/Activity2.1.PNG)
 ![22](./resources/Activity2.2.PNG)
 ![23](./resources/Activity2.3.PNG)
-![24](./resources/Activity2.3.PNG)
+![24](./resources/Activity2.4.PNG)
 
 Activity 3 \
 
