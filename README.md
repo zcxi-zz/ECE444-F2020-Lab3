@@ -12,7 +12,7 @@ Activity 1 \
 Activity 2 \
 
 ![21](./resources/Activity2.1.PNG)
-![22]./resources/(Activity2.2.PNG)
+![22](./resources/Activity2.2.PNG)
 ![23](./resources/Activity2.3.PNG)
 ![24](./resources/Activity2.3.PNG)
 
@@ -20,4 +20,4 @@ Activity 3 \
 
 SQL vs NoSQL: \
 SQL - relational database, fixed schema, vertically scalable \
-NoSQL - Non relational, flexible schema, horizontally scalable, better in a distributed setting \
+NoSQL - Non relational, flexible schema, horizontally scalable, better in a distributed setting 
